@@ -4,7 +4,7 @@
   "versions": [
     {
       "id": "v2",
-      "releasedAt": 0,
+      "releasedAt": 1724864400000,
       "promotions": {
           "downloads": {
               "modrinth": "https://modrinth.com/modpack/corecraft"
