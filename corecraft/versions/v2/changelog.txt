@@ -1,1 +1,0 @@
-CoreCraft 1.21.1 for Fabric Loader 0.16.4
