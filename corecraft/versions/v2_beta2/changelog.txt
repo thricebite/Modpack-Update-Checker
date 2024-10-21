@@ -1,0 +1,20 @@
+Added
+- Simple HUD Enhanced
+- LambDynamicLights
+- Fog
+- Snow Under Trees
+- Better Third Person
+
+Removed:
+- Simple Armor HUD
+- Ryoamic Lights and Obsidian UI
+- DnT Nether Fortress Overhaul
+- DnT Jungle Temple Replacement
+- DnT Desert Temple Replacement
+- YUNG’s Better Ocean Monuments
+
+Fixes/Changes:
+- Illager’s Bane enchantment now deals more damage to Illager Invasion illagers
+- Vindicators named Johnny can no longer target Illager Invasion illagers, ravagers, vexes, and witches
+- Fixed lecterns not having the 3D book models
+- Fresh Animations is disabled by default due to conflicts with Illager Invasion and Xaero’s Minimap
