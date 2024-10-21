@@ -1,4 +1,5 @@
-Added
+Added:
+
 - Simple HUD Enhanced
 - LambDynamicLights
 - Fog
@@ -6,6 +7,7 @@ Added
 - Better Third Person
 
 Removed:
+
 - Simple Armor HUD
 - Ryoamic Lights and Obsidian UI
 - DnT Nether Fortress Overhaul
@@ -14,6 +16,7 @@ Removed:
 - YUNG’s Better Ocean Monuments
 
 Fixes/Changes:
+
 - Illager’s Bane enchantment now deals more damage to Illager Invasion illagers
 - Vindicators named Johnny can no longer target Illager Invasion illagers, ravagers, vexes, and witches
 - Fixed lecterns not having the 3D book models
