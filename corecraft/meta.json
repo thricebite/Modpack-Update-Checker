@@ -14,7 +14,7 @@
     {
       "id": "v2_beta2",
       "releasedAt": 1729507500000,
-      "updateType": "minor"
+      "updateType": "minor",
       "promotions": {
           "downloads": {
               "modrinth": "https://modrinth.com/modpack/corecraft"
