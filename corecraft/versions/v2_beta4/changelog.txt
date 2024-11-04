@@ -1,0 +1,20 @@
+Added:
+- Jade Addons
+- Incendium
+- DEUF Refabricated
+- Spyglass Entity Distance
+- Supplementaries
+- Fresh Animations Quiver Extension
+- Krypton
+- Paxi
+
+Removed:
+- Amplified Nether
+- Global Packs
+
+Fixes/Changes:
+- Downgrade controlify mod due to the issue of clickable text regions being visually much lower than expected: https://github.com/isXander/Controlify/issues/246#issuecomment-2447572949
+    - Due to this, Steam Deck may not be able to read back buttons, gyro, and touchpad inputs until Controlify is updated again
+- Fix Shulker Boss Behaviour Enchanted Books appearing in loot chests
+- Treasure enchants should only appear in their respective structures
+- Fix Supplementaries’ Stasis enchantment to exist in 1.21.1
