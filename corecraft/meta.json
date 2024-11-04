@@ -30,6 +30,16 @@
               "modrinth": "https://modrinth.com/modpack/corecraft"
           }
       }
-    }
+    },
+    {
+      "id": "v2_beta4",
+      "releasedAt": 1730723400000,
+      "updateType": "minor_breaking",
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/corecraft"
+          }
+      }
+    },
   ]
 }
