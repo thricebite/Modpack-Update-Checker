@@ -1,0 +1,9 @@
+Updated Fabric Loader 1.21.1-0.16.9
+  Updated Mods
+
+Fixes/Changes:
+  
+- RPG Series loot can be found in Dungeons and Taverns structures
+- Added YUNG’s Better Desert Temples to Enchanted Loot Fix datapack
+- Saved hotbar includes netherite tools
+- Penalties for using an anvil multiple times has been disabled (config in configureddefaults folder)
