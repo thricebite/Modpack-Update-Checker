@@ -1,4 +1,5 @@
 Added:
+
 - Shoulder Surfing Reloaded
 - Vanilla Refresh
 - Scribble
@@ -7,11 +8,13 @@ Added:
 - Cloth Gamerules
 
 Removed:
+
 - Better Third Person
 - Fog
 - Boring Default Game Rules
 
 Fixes/Changes:
+
 - You can now enchant infinity with mending (similar to how you can enchant spell infinity and mending)
 - All weapons can be enchanted with looting
 - Tri-shot and blowthrough enchants are mutually exclusive. Might enchant scales in power with Archer RPG Series’ power enchant
