@@ -1,0 +1,15 @@
+Added:
+
+- Fog (read changes)
+- Bibliophilia
+
+Removed:
+
+- Falling Leaves (Particular has this)
+- Xali’s Enchanted Books, addon, and fix
+
+Fixes/Changes:
+
+- Fix Gravity and Ghasted enchantments to be mutually exclusive
+- Disabled food tooltip in Farmer’s Delight config in defaultconfig folder to not have duplicate effect descriptions
+- Fog starts a bit further away from the player for slightly better visibility in defaultconfig folder
