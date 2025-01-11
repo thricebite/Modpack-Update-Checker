@@ -73,7 +73,7 @@
     },
     {
       "id": "v2_beta8",
-      "releasedAt": 1736582400000,
+      "releasedAt": 1736595000000,
       "updateType": "minor",
       "promotions": {
           "downloads": {
