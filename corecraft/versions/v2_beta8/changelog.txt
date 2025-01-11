@@ -1,0 +1,19 @@
+Added:
+
+- Servux
+- Mod Glue
+- Symbol Chat
+- Pixel Twemoji x18 Resource Pack
+- Subtle Effects
+- Armor Trim Fix
+- Better Animations Resource Pack (For skins without eye animations support)
+- Better Expressions Resource Pack (For skins with eye animations support)
+- Horse Buff
+
+Removed:
+
+- Emoji Type
+
+Fixes/Changes:
+  
+- Spell Engine update with spell scrolls that function like enchanted books
