@@ -1,0 +1,17 @@
+Added:
+
+- Sparkles: Stardust Resource Pack
+- Village Taverns (RPG Series)
+- Enchanting Infuser
+- Universal Enchants
+- Universal Ores
+
+Fixes/Changes:
+
+- Vanilla villages can spawn again since RPG structures spawn there (Cannot figure out how to configure Structure Pool API to inject these into Luki’s villages)
+- Changed recipe of lodestones from netherite ingot to iron ingot
+- Change default vanilla tweak settings to remove crop xp (since it does not support modded crops)
+- Looting and fortune grants more xp
+- Infinity no longer requires an arrow like spell infinity
+- Removed might, blowthrough, and tri-shot from Dungeons and Taverns but all bow and crossbow enchantments are compatible with each other
+- Horse armour and wolf armour can be enchanted
