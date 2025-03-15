@@ -1,0 +1,52 @@
+Added:
+
+- Icon Xaero x Fresh Animations Resource Pack
+- Let me Despawn
+- Nyf’s Spiders
+- Incendium Biomes Only
+- Colorful Sheared Sheep Resource Pack
+- Open Party and Claims PvP Support
+- Relics (RPG Series)
+- YUNG’s Better Strongholds
+- Sound Physics Remastered
+- Fast Item Frames
+- Fast Paintings
+- Smarter Farmers (farmers replant)
+- Alternate Current
+
+Removed:
+
+- Spell Engine x OPAC (Incompatible with Spell Engine 1.5+, will re-add later)
+- Icon Xaero Resource Pack
+- Mod Glue
+- Dungeons and Taverns End Castle Standalone (Already in DnT base)
+- Dungeons and Taverns Stronghold Overhaul
+- Dungeons and Taverns Ancient City Overhaul
+- Charm of Undying
+- Peek (Reveals too much info, like explorer map coordinates)
+- Carpet Mod (conflicts with Polymorph, players cannot join each other in multiplayer)
+- Stack to Nearby Chests (conflicts with Easy Shulker Boxes features)
+- Vanilla Refresh (requires modification to the jar file to change default settings in servers)
+- Better Animations / Better Expressions resourcepack
+
+Fixes/Changes:
+
+- Incendium’s mobs and items are removed
+- Quivers and rune pouches are added that work with Spell Engine
+- Disabled supplementaries quivers and quiver slot due to removed integration with Spell Engine
+- Totems are now moved to the belt slot
+- Enabled more traveler’s backpack abilities, disabled feeding upgrade. Traveler’s backpack had configurable rebalanced abilities and crafting recipe changes
+- Allowed shulker boxes to be inside traveler’s backpacks
+- Mobs can spawn with backpacks
+- The Ender Dragon now drops a dragon head when killed
+- Invokers now spawn in higher tier waves
+- Spell Books drop upon death
+- Added easy shulker boxes’ item interaction functionality to other storage items such as the safe and sack from Supplementaries. (though we may disable this feature for safes in the future due to it giving items from locked safes)
+- Fixed x-ray through trapdoors
+- Downgraded EMF due to model issues with Bogged
+- Graves are protected from 15 minutes to 5 minutes, it remains intact for 30 minutes
+- Slingshots can now sling splash potions, bombs, snowballs, and ender pearls
+- Disabled optimizedTNT by default from carpet mod because it makes wind charges explode blocks upon impact
+- Disabled carpet mod, features like pushable tile entities and moveable amethyst source blocks are not available
+- Unbanned combat artifacts but they are purely cosmetic
+- Gain crop xp from Right Click Harvest mod
