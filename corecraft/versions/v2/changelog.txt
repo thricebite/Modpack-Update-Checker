@@ -1,0 +1,46 @@
+WARNING!
+
+If you have worlds from any previous betas, creating a new world with this release is highly recommended because of the big changes.  From this version on we will focus on keeping the world palyable through updates.
+
+Added
+
+- Stutter Fix
+- Not Enough Recipe Book
+- Towns and Towers
+- Item physics lite
+
+Removed
+
+- [ESF] Entity Sound Features
+- Autochef’s delight
+- BE Style Wither
+- Better Recipe Book
+- Better Statistics Screen
+- Cherished Worlds
+- Chunky
+- Chunky Border
+- CICADA
+- Cloth Gamerules
+- Controlify
+- Crops Love Rain
+- Custom FOV
+- Diagonal Fences
+- Diagonal Walls
+- DnT Woodland Mansion
+- Explosive Enhancement
+- Fast IP Ping
+- Gazebos
+- Incendium Biomes Only
+- Item Physics
+- libIPN
+- Mini Hud
+- Nether Portal Fix
+- No Shield Delay
+- Nyf’s Spiders
+- Particular
+- Pick Up Notifier
+- Servux
+- spark
+- Spyglass Entity Distance
+- TDCCommons API
+- World Edit
