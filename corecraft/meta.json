@@ -100,6 +100,16 @@
               "modrinth": "https://cdn.modrinth.com/data/VABHuKKF/versions/K58ztwMc/CoreCraft%202.0.0-beta10.mrpack"
           }
       }
+    },
+    {
+      "id": "v2",
+      "releasedAt": 1743832120978,
+      "updateType": "minor_breaking",
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://cdn.modrinth.com/data/VABHuKKF/versions/GVCIQEOa/CoreCraft%202.0.mrpack"
+          }
+      }
     }
   ]
 }
