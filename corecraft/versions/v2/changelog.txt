@@ -4,6 +4,7 @@ If you have worlds from any previous betas, creating a new world with this relea
 
 Added
 
+- Chef's Delight
 - Stutter Fix
 - Not Enough Recipe Book
 - Towns and Towers
@@ -13,7 +14,6 @@ Removed
 
 - [ESF] Entity Sound Features
 - Autochef’s delight
-- BE Style Wither
 - Better Recipe Book
 - Better Statistics Screen
 - Cherished Worlds
