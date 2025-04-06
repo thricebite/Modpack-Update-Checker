@@ -1,6 +1,6 @@
 WARNING!
 
-If you have worlds from any previous betas, creating a new world with this release is highly recommended because of the big changes.  From this version on we will focus on keeping the world palyable through updates.
+If you have worlds from any previous betas, creating a new world with this release is highly recommended because of the big changes.  From this version on we will focus on keeping the world playable through updates.
 
 Added
 
