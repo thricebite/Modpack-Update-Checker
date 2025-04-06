@@ -112,7 +112,7 @@
       }
     },
     {
-      "id": "v2",
+      "id": "v2.0.1",
       "releasedAt": 1743923700000,
       "updateType": "minor",
       "promotions": {
