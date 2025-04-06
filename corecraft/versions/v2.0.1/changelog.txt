@@ -1,0 +1,27 @@
+Changelog:
+
+Added:
+
+- Inventory Profiles Next
+- libIPN
+
+Removed:
+
+- Item Scroller
+- MaLiLIb
+
+Updated:
+
+- Spell Engine
+- Relics
+- Moonlight
+- Supplementaries
+- Artifacts
+- Flashback
+- Bookshelf
+- Shoulder Surfing Reloaded
+
+Fixes/Changes:
+  
+- Added looting enchantment support for Arsenal weapons and fixed shields being enchanted with looting
+- Enabled placeable books from Supplementaries
