@@ -1,0 +1,49 @@
+Added:
+
+- Visible Traders
+- Variable Spawner Hardness
+- Simple Homing XP
+- Particular
+- Vanilla Tweaks Wandering Trader Notifier datapack
+- Vanilla Tweaks Painting Picker datapack
+- Item Scroller + MaLiLib
+- Better Villages
+- Gazebos (RPG Series)
+- Chunky + Chunky Border
+- Packet Fixer
+- spark
+- End Remastered Dimension Compat
+- Incendium Biomes Only (items are too broken and don’t integrate well with the modpack. Some items are in item frames making it unaffected by lootr)
+- Hopper Gadgetery
+- Dyed Flames
+- Convenient Effects
+- Variants and Ventures
+
+Removed:
+
+- Inventories Profile Next + libIPN(blocks some UI, and other people have custom sorted backpacks but accidentally pressed the sort button)
+- Chat Patches (to reduce memory usage)
+
+Fixes/Changes:
+
+- Datapacks are now loaded from the datapack folder instead, please delete the datapacks from config/paxi/datapacks and configureddefaults/config/paxi/datapacks
+- Made pets and teammates (from vanilla teams command) allies in Better Combat config
+- Bundles are now craftable with 1 string and 1 leather (they were previously obtainable only in loot chests)
+- Leads are craftable with 5 string, no slimeball required
+- Rebalance End Remastered Eyes show up in more loot chests such as YUNG’s Better Structures, Dungeons and Taverns, and Dungeons Arise
+- Furnace Upgrade for Traveler’s Backpack and Spell Scroll textures
+- True Infinity and Auto Fire Hook crash fixed
+- You now get notified when a wandering trader is near you
+- Allow mob plaques to see other player health by default (reverted from CoreCraft v2.0). Although the health is still visible from Rogues using vanish currently, we prioritize paladins and priests seeing other players health to heal them
+- Fix dungeon difficulty config
+- Fix waystone config. Costs:
+    - 0-4999 blocks: 1 xp level
+    - 5000-9999 blocks: 2 xp levels
+    - 10000+ blocks: 3 xp levels
+    - Travel between dimensions: 3 xp levels
+    - Warp plates: Free, but limited to 100 blocks
+- Disabled zombie horse conversions from Supplementaries
+- More likely to get the slimed effect from slimes
+- Dungeons Arise Wishing Well is disabled, enabled Better Villages
+- Added compat for visual honey stages and Friends and Foes’ beehive variants
+- Added 3D iron gates
