@@ -17,7 +17,6 @@ Added:
 - Hopper Gadgetery
 - Dyed Flames
 - Convenient Effects
-- Variants and Ventures
 
 Removed:
 
