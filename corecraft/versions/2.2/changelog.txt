@@ -1,0 +1,51 @@
+If you constantly update the modpack, feel free to delete the config folder, options.txt, and hotbar.nbt as configureddefaults will regenerate a new config where the UI is more organized.
+
+Update Fabric Loader to 0.16.14
+
+Added:
+
+- Boss Ultimatum
+- Hunger Tweaks
+- Durability Tweaks
+- Unbreakables
+- Better Tab
+- Bridging Mod
+- Spawner Control
+- Anti Item Break (still be careful with durability when casting spells)
+- Zombify
+- ToolTipFix
+- Terrastorage
+- Simple Netherite Horse Armor
+- Horseman (successor to Horse Buff)
+
+Removed:
+
+- Better Beds
+- Sound Physics Remastered (for better performance, and it is unaffected by group chats)
+- Horse Buff (depreciated)
+
+Fixes/Changes:
+
+- Armours from Azure now can go transparent along with the player in third person mode
+- Revamped waystone config:
+    - Players now have 2 options for waystone visibility: activation (default) and global
+    - Teleportation costs 1 level
+        - You get a 30 minute cooldown for each teleport (this cooldown does NOT restrict teleportation, it charges more levels)
+        - For every ~10 minutes is in your cooldown, an extra level is charged
+    - Warp plates are once again free of xp costs
+    - Only the owner can break their waystones
+- Combat Artifacts have been re-banned and no longer appear in loot. Invisibility scarf now hides the scarf too.
+- Saddles are now craftable with 3 leather and an iron ingot
+- Vanilla mace no longer uses better combat
+- Lootr containers now decay in 30 minutes after being first opened. This was intended so that people who conquered the structures together will both have the same loot and that other people who entered the structures with no difficulty cannot just obtain the loot. Also, it will not leave unbreakable chests permanently in your world. If you kill all the mobs and waited for your friends to arrive to all loot together, we award your patience.
+- Killing the fire gauntlet and obsidilith does not drop a lootr container. You now obtain one blazing eye/obsidian heart respectively per boss
+- Handcrafted sheets now have a shaped recipe
+- By default for new modpack installations, item entity particles are disabled by default from Subtle Effects for performance reasons
+- Added some abondoned mineshaft trinkets to the hide and seek rewards of the Rascal. This was intended to reduce the amount of mineshafts and world generation to explore.
+- Stasis enchanted books can now be found in End Castles
+- Allowed quick charge, flame, and frost walker to be imbued
+- Table of Elevation has a radius of 7 blocks (15 block diameter)
+- Gold and netherite doors and trapdoors now have a 3D model
+- Mob Plaques are more readable when the entity is wearing a hat (in configureddefaults config folder)
+- Edited UI config in configureddefaults such as EMI, Stylish Effects, and Terrastorage to avoid overlapping elements
+- More coloured damage indicators for using spells, arrows, and player attacks from Dummy mod
