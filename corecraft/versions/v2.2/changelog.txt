@@ -16,6 +16,8 @@ Added:
 - Terrastorage
 - Simple Netherite Horse Armor
 - Horseman (successor to Horse Buff)
+- Armory (RPG Series)
+- Skill Tree (RPG Series)
 
 Removed:
 - Better Beds
