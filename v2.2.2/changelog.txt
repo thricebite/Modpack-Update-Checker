@@ -1,0 +1,17 @@
+Update Fabric Loader to 0.17.2
+
+Added:
+  
+- Boat Break Fix
+- Keybind Fix Plus
+- Nether Portal Fix
+- Veinminer Enchantment (Veinminer + Silk)
+- Timber Vanilla Tweaks datapack
+
+Fixes/Changes:
+  
+- Updated mods
+- Throwable fire charges
+- More skills in the skill tree
+- Dropping lanterns no longer causes a fire
+- Item tag support to pickup, void, and magnet upgrade
