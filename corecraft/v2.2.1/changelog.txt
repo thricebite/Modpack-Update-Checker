@@ -1,2 +1,0 @@
-- Hotfix to add Gazebos (RPG Series) and Boss Ultimatum
-- Updated Modpack Info description
