@@ -1,0 +1,7 @@
+Added:
+
+- Attribute Icons Resourcepack
+
+Fixes/Changes:
+  
+- Updated mods and resourcepacks
