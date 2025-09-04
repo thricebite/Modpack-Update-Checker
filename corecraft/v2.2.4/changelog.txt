@@ -1,0 +1,17 @@
+Added:
+
+- Villager Config
+
+Removed:
+
+- Zombify
+
+Fixes/Changes:
+  
+- Updated mods and resourcepacks
+- Adjusted loot tables for RPG Series items to account for Armory
+- Adjusted villager trades
+    - Armorsmith: Chainmail armour is sold before iron armour. The shield is replaced with the diamond kite shield.
+    - Weaponsmith: Replaced the axe trades with Farmer Delight’s knives
+    - Toolsmith: Removed the enchanted iron tools trades and the diamond for emerald trade, making the diamond tool trades guaranteed
+    - Wandering Trader: Added the wandering trader’s purchasing table. Wandering traders now also sell invisibility potions and a common music disc/goat horn
