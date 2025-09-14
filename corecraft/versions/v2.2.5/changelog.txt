@@ -1,0 +1,31 @@
+Added:
+
+- Elytra Drag
+- Icon Leading Tooltips
+- Kev’s Attribute Panel
+- Distraction Free Recipes
+- RightClickHarvest Supplementaries Compat
+- YUNG’s Cave Biomes
+
+Removed:
+
+The following resourcepacks have been temporarily removed due to being incompatible with Fresh Animations 1.10+
+
+- Fresh Animations Details Extension
+- Fresh Animations Spider Extension
+- Coloured Sheep + Fresh Animaion
+
+Fixes/Changes:
+
+- Downgraded visible traders because the trades do not display in single-player
+- Fixed loot table for the Bandit Towers 8 ball pool table room (chest pointed to a non-existent loot table file)
+- Villagers max discount is 30% off and max raise is 50%
+- Adjusted villager trades
+    - RPG Series Villagers will guaratee sell something from each class such as the arms merchant will sell both rogue and warrior weapons
+    - Novice: Mainly sells ammunition and early-game weapons
+    - Apprentice: Buys materials for emeralds
+    - Journeyman and Expert: Sells early-game armor
+    - Master: Sells enchanted diamond-tier weapons
+    - Reworked fletcher, armorer, toolsmith, and weaponsmith
+    - Fletchers need to be a journeymap to have sticks for emeralds trade
+- New relics
