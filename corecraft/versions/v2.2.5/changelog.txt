@@ -27,5 +27,5 @@ Fixes/Changes:
     - Journeyman and Expert: Sells early-game armor
     - Master: Sells enchanted diamond-tier weapons
     - Reworked fletcher, armorer, toolsmith, and weaponsmith
-    - Fletchers need to be a journeymap to have sticks for emeralds trade
+    - Fletchers need to be a journeyman to have sticks for emeralds trade
 - New relics
