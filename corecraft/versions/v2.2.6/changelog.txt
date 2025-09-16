@@ -1,0 +1,13 @@
+Added:
+
+- Reactive Music
+- Fresh Animation Extensions
+    - Objects
+    - Details
+    - Quivers
+    - Spiders
+    - Creepers
+
+Fixes/Changes:
+  
+- The red merchant’s presence also gets announced like the wandering trader
