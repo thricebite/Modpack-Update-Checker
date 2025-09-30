@@ -1,0 +1,19 @@
+Added: 
+
+- Map Distance Fix
+- Fast Better Grass resourcepack
+
+Fixes/Changes: 
+
+- Added modded netherite/obsidian/nether star items immune to fire, explosions, lightning, and the cactus (from Quad’s functionality)
+    - Netherite RPG Series Weapons, Armour, and Jewelry
+    - Arsenal, Armory, and Unique Jewelry
+    - Large rune pouches and quivers
+    - Netherite Knife
+    - Enchanting Infusers
+    - Waystones
+    - Table of Elevation
+    - Blast Amplifier
+    - Staff of Suppression
+- The cactus item is now immune to getting destroyed by cacti
+- The enderman head can now break faster with a pickaxe like the other heads
