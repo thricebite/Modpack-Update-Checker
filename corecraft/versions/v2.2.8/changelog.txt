@@ -1,0 +1,19 @@
+Added:
+
+- Enchantment Switch
+- Model Gap Fix
+- Critical Strike
+
+Fixes/Changes:
+
+- Traveler’s Backpack has the refill upgrade
+- Modify Enchanting Table’s lapis cost to match the Spell Binding Table
+- Armor upgrade crystals can upgrade your netherite armor to armory, allowing you more control of obtaining specific armor pieces needed to complete your set and to preserve your enchantments across new armor sets. Also tweaked the RPG Series loot
+- RPG Series armors allows for armor trims
+- You can have mutually exclusive enchantments with Enchantment Switch. An example on how to obtain: Disable fortune and use the advanced enchanting infuser to obtain silk touch
+- Vanilla Tweaks resourcepack now has variated bookshelves, visual indicated copper, and paletteless dyes (upgraded from alternate (formerly unique) dyes) as well as adding modded items to correcred item holding fix
+- Removed “No Bowl Particles” from Vanilla Tweaks due to it conflicting with Eating Animations
+- Dungeons Arise: Removed Mining System, added Mining Complex
+- Strength Potion reworked to boost damage by % rather than a flat value similar to the impact and spell damage potions
+- Adjusted WATUT to display larger GUIs such as Traveler’s Backpack with netherite upgrade
+- Changed default config to make damage indicators from player attacks and arrows to white with critical hits being bold red
