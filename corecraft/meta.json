@@ -210,6 +210,16 @@
               "modrinth": "https://cdn.modrinth.com/data/VABHuKKF/versions/brbE5Phu/CoreCraft%202.2.7.mrpack"
           }
       }
+    },
+    {
+      "id": "v2.2.8",
+      "releasedAt": 1763073000000,
+      "updateType": "minor",
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://cdn.modrinth.com/data/VABHuKKF/versions/TMDuVtEF/CoreCraft%202.2.8.mrpack"
+          }
+      }
     }
   ]
 }
