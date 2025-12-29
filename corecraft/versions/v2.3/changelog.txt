@@ -1,0 +1,42 @@
+Update Fabric Loader to 0.18.4
+
+Added: 
+  
+- LNE Wizards Add-On
+- LNE Rogues and Warriors Add-On
+- LNE Archers Add-On
+- LNE Paladins & Priests Add-On
+- More RPG Library (dependency)
+- Soul Fire’d (works with Amendments torch hits, camp fire cooks mobs)
+- Camp Fires Cook Mobs
+- Harvest with ease (for larger harvest radius)
+- Cobweb (dependency)
+- Torches Reimagined resourcepack
+- Vanilla Backport (with Compat and Mob Variant Compat)
+- Enchantment Disable Tag
+
+Removed: 
+
+- Luki’s Grand Capitals
+- End Remastered Dimension Compat (you now need End Remastered eyes for end portal at the end dimension)
+- Death Knell mod (?)
+- Dyed Flames
+- RightClickHarvest (+Supplementaries Compat, goodbye right clicking sugar cane)
+- JamLib
+- Enchantment Disabler
+
+Fixes/Changes: 
+
+- Elytra and warp stone can be repaired at the enchanting infuser
+- Drag and drop functionality for Traveler’s Backpack
+- Removed Terralith villages and the exclusive Towns and Towers structures
+- Enabled prevent structure overlap in Structurify
+- Removed shorter short grass from Vanilla Tweaks (size is smaller than hitbox)
+- Soul fire does more damage than regular fire
+- Fire Rekindled resourcepack works with Illager Invasion’s magic fire and primal essence
+- Better Combat has weapon trails
+- Adjusted Timber Tweaks default config to enable slow chopping with the settings break 1 block per 1 tick for better performance and disable leaf breaking to allow for saplings to drop from fast leaf decay and to save axe durability
+- Completely disabled enchantments such as the ones from Dungeons Arise, More RPG Library, Soul Fire’d, Dungeons Arise, and most Dungeons and Taverns
+- We are using an old version of Soul Fire’d due to newer versions conflicting with Amendments integration. Some things like Subtle Effects may show the regular fire particles for soul fire.
+- Lapis cost for enchanting table has been reverted to vanilla
+- Odyssey Quests/Heracles quest prototype. Keep in mind that setting items with custom components and description elements didn’t work in the Heracles fork to 1.21.1. Also, there is no official public release for Heracles 1.21.1 on Modrinth yet so it is not bundled with the modpack.
