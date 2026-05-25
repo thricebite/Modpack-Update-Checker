@@ -1,0 +1,79 @@
+Update Fabric Loader to 0.19.2
+
+DISCLAIMER:
+  
+- All spell books and spell scrolls will be reset, due to major API changes.
+- It is adviced to remove the tools from the backpack tool slots then use shears on the backpacks
+- Please backup your world before updating.
+
+Added:
+  
+- No Chat Restrictions
+- Hellish Trials
+- Enchantment Disabler (added back for more control over enchantment obtainment)
+- Every Compat Wood Good (compatibility with Vanilla Backport pale oak)
+- EMIffect
+- Xaero’s Maps X Waystones
+- Fancy World Animations
+- Packed Packs
+- Reliable Remover
+- Companion
+- Shifting Wares + VilagerConfig Addon (trades of weapons, potions, trinkets, food, etc. alternate each day)
+- Torch hit! (integration with Prometheus, preferred over Amendments)
+- Fresh Illager Mod Compats resourcepack (Illager Invasion compat!)
+- Enchantment Insights (replaces Enchantment Descriptions)
+- Vehicle Upgrade (replaces Horseman)
+- Armored Foes
+
+Removed:
+
+- Enchantment Disable Tag
+- Iris/Oculus & Geckolib Compat (obsolete)
+- Netherite Horse Armor (Vanilla Backport added this)
+- Item Obliterator (replaced by Reliable Remover)
+- Visible Traders
+- Enchantment Descriptions (replaced by Enchantment Insights)
+- Horseman (replaced by Vehicle Upgrade)
+
+Fixes/Changes:
+- Name Tags are now crafted with one paper and a metal nugget
+- Dungeon Difficulty now displays titles and affects spawners in structures but doesn’t affect mobs and loot
+- Disabled vanilla desert pyramid, jungle temple, nether fortress in YUNG config
+- Librarians trade max level enchantmented books and spell scrolls at each stage
+- Wandering Trader has MC 1.21.11 trades and RPG Series items included
+- Revamped many villager trades to account for Shifting Wares
+- Master level librarians sell mending
+- Bow and crossbow enchantments are exclusive to their respective item (both still have infinity)
+- Vanishing curse is back but can only be obtained through trading (like mending)
+- Protection enchantment nerfed from 4% -> 3% per level (This enchantment makes mid-late game way too easy)
+- Adjusted enchantment level costs
+- Spawn Eggs texture backport for Illager Invasion and Friends and Foes
+- Removed “More Stairs” and “More Trapdoors” crafting recipes
+- Lootr containers can now be destroyed by players and explosions
+- Enforced entity radar to only show (team) players and tamed pets. This is to avoid cheese from seeing mobs in other rooms using the minimap such as the Rascal’s next hiding spot
+- Removed minimap as well to increase performance especially with shaders. More screen space and world map is still accessible. Minimap exclusive features such as entity radar and cave mode are still enabled on world map
+- Vanilla mace reverted to use Better Combat again (it is easier to use now than its old Better Combat weapon attributes)
+- Vanilla mace can no longer be enchanted with sharpness, smite, and bane of athropods
+- Thorns and fire aspect can no longer be enchanted on shields
+- Totems now go to charm slot instead of belt slot
+- Changed what enchantments go to animal armours such as horse, wolf, ghast, (and soon nautilus)
+- Added Vanilla Tweaks Anti-Enderman grief datapack
+- Added Vanilla Tweaks resources for pale wood, gold bars, gold gates
+- Magical Eyes can be dropped from evokers, wizard evokers, and invoker
+- Explorer and Nature compass can search for multiple instances of a located structure and displays their exact coordinates. Locating structures costs 3 xp levels and biomes costs 1 xp level
+- Changed Explorer and Nature compass to use a custom crafting recipe instead of dropping from the Ender Dragon
+- Armory upgrade templates drop from the Ender Dragon
+- Gravestones store 50% of the experience levels and uses real time
+- Warp plates costs 1 level to use
+- Each leashed mobs and vehicle passengers increase the waystone level cost
+- Added slab/stair to block recipes for sulfur and cinnabar
+- Disabled tool slots from backpacks due to UI conflicts
+- FTB quest support. The following would need to be downloaded from Curseforge as it is not available for Modrinth (numbers are curseforge id)
+    - Enable the Core Quests datapack
+    - FTB Library (438495)
+    - FTB Quests (438496)
+    - FTB Teams (438497)
+    - FTB Filter System (943925)
+    - FTB XMod Compat (889915)
+    - Just Enough Items (Modrinth: u6dRKJwZ) (JEMI for displaying recipes of item quests at the cost of loading times and RAM. FTB XMod Compat only supports JEI and REI)
+    - Teams Friendly Fire Addon (1477515)
