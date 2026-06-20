@@ -1,0 +1,15 @@
+{
+    // * use latest directory layout, always '1'
+    "schema": "1",
+    // * unique project id
+    "id": "corecraft",
+    // * at least one entry is required
+    "platforms": {
+        "modrinth": "VABHuKKF"
+    },
+    // users authorized to register this project
+    "owners": [ "thricebite" ]
+    "versions": {
+        "1.21.1": "1.21.1"
+    }
+}
