@@ -1,0 +1,38 @@
+Added: 
+
+- Klee Slabs
+- Fluidloggable
+- Lithostitched
+- Useful Lanterns
+- Icons - Enchantments resourcepack
+- Icons - Tooltips resourcepack
+- Better Nether Map
+- Styled Player List
+- Reach Behind
+- uku’s Armor HUD (+ukulib)
+- ToolTipFix
+- Better Block Entities (compatible with Sodium 0.8.12, replacement for Enhanced Block Entitites)
+
+Removed: 
+
+- Stretchy Leads (prefer Vanilla Backport Chase the Skies lead behaviour)
+- Fresh Animations Details
+- Fresh Animations Creepers
+- Trade Cycling (we have shifting wares system)
+- Supplementaries (constant bugs, constant breaking other mods such as EMF, Particular, etc. and causing crashes/errors on April Fools)
+- Remove Stardust Labs Intro Message (updated Terralith)
+- Simple HUD Enhanced (replaced by uku’s Armor HUD)
+- Enhanced Block Entities (replaced by Better Block Entities)
+- More RPG Library and the Loot and Explore (LNE) addons (the game starts with completely black screen)
+- Flashback (incompatibile with iris beta)
+
+Fixes/Changes: 
+
+- Added support for Dennis painting for painting picker datapack (stonecutter)
+- Fixed wizard merchant and bartender eyebrows to work with Fresh Animations
+- Waystone default visibility updated to vanilla teams. The waystone update also introduced new items such as the Epitaph, Twinbound Feather, and Portal Scroll.
+- Healing indicators changed from all entities to all players as some mobs like allay, glare, and bosses naturally regen and fill up the screen
+- Limited chef and cook houses to 1 per village in chef’s delight config
+- Spell Engine Spell Expansion Update
+- Updated creative menu saved hotbars to add the new tier 5 sets
+- Updated FTB Quests for the new spell engine update (still not bundled with the modpack)
