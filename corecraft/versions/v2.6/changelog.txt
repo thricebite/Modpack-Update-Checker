@@ -1,0 +1,23 @@
+Added:
+
+- Reliable Advancements
+- Compass to Map: Xaero’s Minimap
+- Treeliable (works better for modded trees from Terralith)
+- Modulation
+
+Removed:
+
+- Open Party and Claims (+PVP Support)
+- Silk
+- Paginated Advancements and Custom Frames
+- timber datapack
+- Icons Enchantments resourcepack
+- Icons Tooltips resourcepack
+
+Fixes/Changes:
+
+- Updated Bibliophilia to have Critical Strike enchanted book textures
+- Mod updates
+- RPG Series potions now have brewing recipes
+- Updated durability tweaks (now Sensible Survival) now shares xp gain between members (just like Pufferfish Skills)
+- Bring back the minimap
