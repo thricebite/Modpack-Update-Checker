@@ -1,0 +1,85 @@
+**Please backup your worlds before updating!**
+
+Happy Halloween!
+
+I am having lots of issues exporting modpacks with Modrinth App due to having to resolve “datapacks and resourcepacks from outside the instance”, unable to duplicate instances, and their update all preview button feature is broken. This has slowed down my workflow and am considering swapping to Prism Launcher. Modrinth App won’t accept exporting datapacks and resourcepacks in .zip form so they have to be in folders.
+
+There are now public teams (similar to Terraria). Use ``/corecraft team <team>`` to join a team. Benefits of being in a team includes team messaging command, friendly fire disabled, sharing waypoints, minimap and world map head icon sharing, and xp sharing for both the experience bar and skill tree.
+
+Quests currently in beta. Issues from December 2025 still persist, but at least Odyssey Quests is now public on Modrinth. I disconnect from the server (server custom:payload errors?) when I try to set quests with item components such as mending enchanted books, so I haven’t got to set rewards. Some description elements are not working properly, so I haven’t created quest descriptions yet. Odyssey Allies also crashes.
+
+Added:
+  
+- Ixeris
+- Fast Noise
+- Quick Pack
+- Field Guide
+- Scholar
+- Exposure (+Polaroid +Catalogue)
+- Envelope
+- Invariable Paintings (+Invariable Paintings CIT resourcepack)
+- Useful Spyglass
+- Reliable Requiem
+- Tiny Takeover Backport
+- Peaceful Hunger
+- Hungrier
+- No Shield Delay
+- Let Me Sleep
+- Stonecutting Upgrade
+- Name Tag Upgrade
+- Open Together
+- Trash Slot
+- Client Tweaks
+- Starter Kit
+- Inventory Mending (you also have enchantment switch mod)
+- No Animal Tempt Delay
+- Collective
+- Melius Commands
+- Optimized Block Entities (better support for shaders and EMF/ETF, and supports lootr, more chest variants, and amendments)
+- Farmer’s Knives
+- EMF Compat: Core
+- EMF Compat: Better Combat
+- EMF Compat: WATUT
+- EMF Compat: Exposure
+- EMF Compat: Not Enough Animations
+- Fresh Animations: Player Extensions
+- Let Them Talk
+- Odyssey Quests (Odyssey Allies still crashes)
+- Copper Fire
+- True Darkness Refabricated
+
+Removed:
+
+- Scribble (replaced by Scholar)
+- Universal Graves +Polymer (not compatible with Reliable Requiem’s keep inventory)
+- Fresh Animations: Spiders
+- Enchantment Disabler
+- Better Block Entities (replaced by Optimized Block Entities)
+- Vanilla Tweaks Painting Picker datapack (replaced by invariable paintings)
+- Camp Fire Cooks Mobs
+- Handcrafted (Very RAM heavy, Vanilla Backport has cushions, wool/concrete slabs/stairs)
+- Amendments (crashes)
+
+Fixes/Changes:
+
+- Readjusted reliable advancement inventory button to be beside the adjusted field guide button
+- RPG Series loot is more weighted towards the class of your spell book
+- Every boss now drops a tier 5 weapon and a tier 5 armor piece
+- Socket Mounts to add gem power. Use the Jeweler’s Kit to cut gems.
+- Easy Magic chiseled bookshelf tooltip disabled, use scholar’s tooltip instead
+- Waystones reworked level costs. Base cost 6 levels, if teleported within 5 minutes, the cost is 9 levels
+- Penguins and Barnacle is now in the game
+- Updated quests
+- Removed items from modulation mod
+- Created preset teams, similar to Terraria. Operators can use /team join
+- Disabled Friends & Foes copper golem
+- Disabled sheep wool undercoat from Vanilla Backport for compatibility with Tiny Takeover Backport
+- Lootr is available for 30 minutes, then converts to their normal block counterpart (lootr chests become vanilla chests after 30 minutes from chest opening)
+- Anvil repairing durability with material buffed from 25% to 100%
+- Removed Herobrine
+
+Known Issues:
+
+- Jewelry socket mount tooltips overlaps with the emoji font maps
+- EMI Loot not showing RPG Series drops
+- Waiting for Torch Hit copper fire update and More Variants: Pale Oak Backport
