@@ -6,7 +6,7 @@ I am having lots of issues exporting modpacks with Modrinth App due to having to
 
 There are now public teams (similar to Terraria). Use ``/corecraft team <team>`` to join a team. Benefits of being in a team includes team messaging command, friendly fire disabled, sharing waypoints, minimap and world map head icon sharing, and xp sharing for both the experience bar and skill tree.
 
-Quests currently in beta. Issues from December 2025 still persist, but at least Odyssey Quests is now public on Modrinth. I disconnect from the server (server custom:payload errors?) when I try to set quests with item components such as mending enchanted books, so I haven’t got to set rewards. Some description elements are not working properly, so I haven’t created quest descriptions yet. Odyssey Allies also crashes.
+Quests currently in beta. Issues from December 2025 still persist, but at least Odyssey Quests is now public on Modrinth. I disconnect from the server (serverbound:custom_payload errors?) when I try to set quests with item components such as mending enchanted books, so I haven’t got to set rewards. Some description elements are not working properly, so I haven’t created quest descriptions yet. Odyssey Allies also crashes.
 
 Added:
   
